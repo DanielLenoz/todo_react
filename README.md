@@ -1,5 +1,5 @@
 # Proyecto Lista de Tareas (Todo) con React
-<img align="center" alt="Rafa-Js" width="100%" src="https://github.com/DanielLenoz/todo_react/assets/98136538/dd0f3207-a569-4fe4-8dff-d47f8b46f53c">
+<img align="center" alt="Rafa-Js" width="50%" src="https://github.com/DanielLenoz/todo_react/assets/98136538/dd0f3207-a569-4fe4-8dff-d47f8b46f53c">
 
 Este es un proyecto de una lista de tareas simple construido con React. La aplicación te permite crear, editar, marcar como completas y eliminar tareas. La idea detrás de este proyecto es aprender y practicar React, un marco de JavaScript popular, y es una implementación de un proyecto de [Platzi](https://platzi.com/) guiada por el profesor juandc Juan David Castro.
 
